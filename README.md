@@ -42,7 +42,7 @@ The application will start running at `http://localhost:8080`.
 
 ## 📚 API Documentation
 
-Swagger UI is integrated for easy API testing and documentation. Once the application is running, access the Swagger UI at: http://localhost:8080/swagger-ui.html
+Swagger UI is integrated for easy API testing and documentation. Once the application is running, access the Swagger UI at: http://localhost:8080/swagger-ui/index.html
 ![Swagger UI](https://github.com/Gk355252/JWT-Authentication-System/blob/main/swagger-ui-screenshot.png?raw=true)
 
 ## 🔒 Security Measures
